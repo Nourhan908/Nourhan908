@@ -8,7 +8,6 @@
 - 🌱 Currently working on **Machine Learning, Deep Learning, and Computer Vision** projects.  
 - 🧩 Exploring **Cloud Computing**, **Web Development**, and **Autonomous Robotics (ROV systems)**.  
 - 💬 Passionate about building **intelligent systems** that connect AI with real-world engineering.  
-- 🔭 Currently developing a **Car Rental System** and a **Pharmacy System**, both integrating **Automation and AI**.
 
 ---
 
@@ -45,9 +44,14 @@
 
 ---
 
+### 🔧 Ongoing Projects  
+- **Car Rental System** – AI-powered automation for reservations and fleet management.  
+- **Pharmacy System** – Smart inventory and prescription management using ML.  
+- **ROV Robotics System** – Autonomous underwater vehicle development for exploration.  
+
+---
+
 ### 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nourhan%20Khaled-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nourhan-khaled-77484b292)  
 [![GitHub](https://img.shields.io/badge/GitHub-Nourhan908-black?style=for-the-badge&logo=github)](https://github.com/Nourhan908)  
 [![Gmail](https://img.shields.io/badge/Email-nourhankhaled908%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourhankhaled908@gmail.com)
-
----
